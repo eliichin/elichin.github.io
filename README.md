@@ -6,7 +6,7 @@ Send me an email if you want to chat!
 
 ## Education
 **M.SA. - Spatial Analysis** | Toronto Metropolitan University _2027_ \
-**B.A(Honours). - Environmental and Urban Sustainability** | Toronto Metropolitan University _2023_
+**B.A (Honours). - Environmental and Urban Sustainability** | Toronto Metropolitan University _2023_
 
 ## Professional Experience
 **Education Interpreter** | _2025 - Present_ \

@@ -24,7 +24,7 @@ Toronto Metropolitan University
 
 
 **Presentations**
-- **Hernandez, D.**^, Rawstern, A.H.E., Afkhami, M.E. (2023) Networks as diagnostic tools to understand community stability and identify microbial keystones. Mycological Society of America 2023 Meeting. Flagstaff, AZ, USA, 29 Jul-3 Aug 2023, _Invited talk_
+- **Chin, E.**. (2026) Principles of Map Design. Masters of Environmental Science and Applied Management Program and Toronto Metropolitan University: GIS for Environmental Management (ES8922). Toronto, ON, CAN, Nov 19, 2026, _Invited talk_
 
 
 ## Service

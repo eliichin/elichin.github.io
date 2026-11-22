@@ -5,22 +5,21 @@ I am a Master's of Spatial Analyst Candidate and Environmental Educator. My rese
 Send me an email if you want to chat!
 
 ## Education
-**M.SA. - Spatial Analysis** | Georg-August-Universität Göttingen _2015_ \
-**B.Sc. - Biochemistry & Molecular Biology** | University of Miami _2013_
+**M.SA. - Spatial Analysis** | Toronto Metropolitan University _2027_ \
+**B.A(Honours). - Environmental and Urban Sustainability** | Toronto Metropolitan University _2023_
 
 ## Professional Experience
-**National Science Foundation Postdoctoral Research Fellowship in Biology** | _2024 - Present_ \
-University of Toronto (Advisor Dr. John R. Stinchcombe) \
-Vrije Universiteit Amsterdam (Advisor Dr. Vasilis Kokkoris)
+**Education Interpreter** | _2025 - Present_ \
+Toronto and Region Conservation Authority  
 
-**Postdoctoral Associate** | _2023 - 2024_ \
-University of Miami (Advisor: Dr. Michelle E. Afkhami)
+**Research Assistant** | _2025 - 2026_ \
+Toronto Metropolitan University (Advisor: Dr. Evan Cleave)
 
-**Research Associate** | _2015 - 2017_ \
-University of Miami (Advisor: Dr. Nirupa Chaudhari)
+**Coordinator of Community Programs** | _2023 - 2025_ \
+Ontario Strams
 
-**Laboratory Technician** | _2009 - 2013_ \
-University of Miami
+**Field Studies and Curriculum Assistant** | _2020 - 2023_ \
+Toronto Metropolitan University
 
 ## Honors and Awards (_Total: $662,225_)
 - 2024-2027 - NSF Postdoctoral Research Fellowship in Biology, NSF (_$240,000_)

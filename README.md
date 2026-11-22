@@ -1,12 +1,11 @@
 # Environmental and Spatial Analyst Professional
-I am a Master's of Spatial Analyst Candidate and Environmental Educator.  I study how organisms integrate environmental cues at the molecular level and how that integration cascades to bigger processes impacting whole organisms, communities, and ecosystems. I study these processes using plants and their microbiomes as model systems. This makes me use a whole suite of tools and theories from ecology and molecular biology, but, if we're being honest, might be more indicative of my stubbornness to figure something out than a coordinated training effort.
+I am a Master's of Spatial Analyst Candidate and Environmental Educator. My research intertwines spatial analysis, environmental knowledge, and Indigenous principles to holistically understand the efficacy and application of ecological restoration practices. Spatial analysis particularly remote sensed data, multispectral imaging, and change detection is leveraged to visualize statistical changes in habitat health. Environmental knowledge is integrated to understand the applications of ecological restoration efforts. Indigenous principles are integrated into my research to share the significance of the human and more than human life connections to ecological restoration that make protecting the land all worth while. I combine these three ways of evaluating ecological restoration to have a holistic understanding of planning with purpose and connection to this land that we are situated upon.
 <br>
 <br>
 Send me an email if you want to chat!
 
 ## Education
-**Ph.D. - Biology** | University of Miami _2023_ \
-**M.Sc. - Molecular Biology** | Georg-August-Universität Göttingen _2015_ \
+**M.SA. - Spatial Analysis** | Georg-August-Universität Göttingen _2015_ \
 **B.Sc. - Biochemistry & Molecular Biology** | University of Miami _2013_
 
 ## Professional Experience

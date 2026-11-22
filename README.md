@@ -2,7 +2,7 @@
 I am a Master's of Spatial Analyst Candidate and Environmental Educator. My research intertwines spatial analysis, environmental knowledge, and Indigenous principles to holistically understand the efficacy and application of ecological restoration practices. Spatial analysis particularly remote sensed data, multispectral imaging, and change detection is leveraged to visualize statistical changes in habitat health. Environmental knowledge is integrated to understand the applications of ecological restoration efforts. Indigenous principles are integrated into my research to share the significance of the human and more than human life connections to ecological restoration that make protecting the land all worth while. I combine these three ways of evaluating ecological restoration to have a holistic understanding of planning with purpose and connection to this land that we are situated upon.
 <br>
 <br>
-Send me an email if you want to connect!
+Send me an email chinmaryelizabeth@gmail.com if you want to connect!
 
 ## Education
 **M.SA. - Spatial Analysis** | Toronto Metropolitan University _2027_ \

@@ -15,8 +15,9 @@ Toronto and Region Conservation Authority
 **Research Assistant** | _2025 - 2026_ \
 Toronto Metropolitan University (Advisor: Dr. Evan Cleave)
 
-**Coordinator of Community Programs** | _2023 - 2025_ \
-Ontario Strams
+**Coordinator of Community Programs** | _2024-2025_ \
+**Project Technician** | _2023 - 2024_ \
+Ontario Streams
 
 **Field Studies and Curriculum Assistant** | _2020 - 2023_ \
 Toronto Metropolitan University

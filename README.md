@@ -1,5 +1,5 @@
-# Plant-Microbial Ecologist
-I'm an NSF Postdoctoral Fellow in the labs of [Drs. John Stinchcombe (University of Toronto)](http://stinchcombe.eeb.utoronto.ca/) and [Vasilis Kokkoris (Vrije Universiteit Amsterdam)](https://www.vasilis-kokkoris.com/). I study how organisms integrate environmental cues at the molecular level and how that integration cascades to bigger processes impacting whole organisms, communities, and ecosystems. I study these processes using plants and their microbiomes as model systems. This makes me use a whole suite of tools and theories from ecology and molecular biology, but, if we're being honest, might be more indicative of my stubbornness to figure something out than a coordinated training effort.
+# Environmental and Spatial Analyst Professional
+I am a Master's of Spatial Analyst Candidate and Environmental Educator.  I study how organisms integrate environmental cues at the molecular level and how that integration cascades to bigger processes impacting whole organisms, communities, and ecosystems. I study these processes using plants and their microbiomes as model systems. This makes me use a whole suite of tools and theories from ecology and molecular biology, but, if we're being honest, might be more indicative of my stubbornness to figure something out than a coordinated training effort.
 <br>
 <br>
 Send me an email if you want to chat!
